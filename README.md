@@ -9,7 +9,7 @@
 [![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-red.svg?logo=streamlit)](#)
 [![Finance](https://img.shields.io/badge/Finance-Quant_Trading-success.svg)](#)
 
-*Projet réalisé dans le cadre du Master 2 ML2 (Machine Learning) à l'Université Paris 1 Panthéon-Sorbonne.*
+
 
 </div>
 
